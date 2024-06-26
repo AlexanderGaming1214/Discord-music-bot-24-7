@@ -4,3 +4,4 @@
 # Node.js version V20
 # visual code studio install
 # lavalink
+not ready
