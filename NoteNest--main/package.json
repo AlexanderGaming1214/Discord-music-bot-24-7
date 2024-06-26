@@ -1,7 +1,7 @@
 {
-  "name": "notenest",
+  "name": "music bot",
   "version": "2.3.0",
-  "description": "NoteNest by _monsterbunny",
+  "description": "music bot 24/7",
   "main": "src/index.js",
   "scripts": {
     "start": "node ./src/index.js"
