@@ -2,6 +2,7 @@ const { ClusterManager } = require("discord-hybrid-sharding");
 const express = require("express");
 const path = require("path");
 require("dotenv").config();
+const keep_alive = require(keep_alive.js)
 
 const app = express();
 const manager = new ClusterManager(`${__dirname}/manager.js`, {
